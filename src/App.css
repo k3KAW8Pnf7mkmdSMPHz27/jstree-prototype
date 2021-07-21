@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.h2 {
+  text-align: center;
+}
+
+li.jstree-leaf > a .jstree-icon {
+  display: none;
+}

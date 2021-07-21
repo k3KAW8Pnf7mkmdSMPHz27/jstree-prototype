@@ -1,0 +1,98 @@
+[
+  {
+    "text": "#helpfulness #crowdhelping",
+    "num_of_projects": 1,
+    "children": [
+      {
+        "project_id": 3566,
+        "text": "crowdhelping_website",
+        "description": null,
+        "code_url": null
+      }
+    ]
+  },
+  {
+    "text": "100daysofcode",
+    "num_of_projects": 2,
+    "children": [
+      {
+        "project_id": 6395,
+        "text": "EugPassGen",
+        "description": "A passphrase Generator with Eugene Oregon Flavor",
+        "code_url": "https://github.com/OpenEugene/EugPassGen"
+      },
+      {
+        "project_id": 6399,
+        "text": "hyph",
+        "description": "connective tissue for communities of practice",
+        "code_url": "https://github.com/OpenEugene/hyph"
+      }
+    ]
+  },
+  {
+    "text": "10x-data-federation",
+    "num_of_projects": 1,
+    "children": [
+      {
+        "project_id": 29,
+        "text": "couch-rules-engine",
+        "description": "A prototype effort to look at using CouchDB as a rules engine",
+        "code_url": "https://github.com/18F/couch-rules-engine"
+      }
+    ]
+  },
+  {
+    "text": "18f",
+    "num_of_projects": 1,
+    "children": [
+      {
+        "project_id": 9,
+        "text": "all_sorns",
+        "description": "Repo for SORN DASH",
+        "code_url": "https://github.com/18F/all_sorns"
+      }
+    ]
+  },
+  {
+    "text": "2015",
+    "num_of_projects": 2,
+    "children": [
+      {
+        "project_id": 6188,
+        "text": "kirwan",
+        "description": "In Franklin County, there is a nearly twenty-year difference in life expectancy for seniors living in different neighborhoods. ",
+        "code_url": "https://github.com/SCODEMeetup/kirwan"
+      },
+      {
+        "project_id": 3673,
+        "text": "philly_election_live_results",
+        "description": "Tim Wisniewski wrote an election scraper with Kimono and a html page to display live election results scraped from http://phillyelectionresults.com/.",
+        "code_url": "http://git.kclough.me/kclough/nodeelectionscraper"
+      }
+    ]
+  },
+  {
+    "text": "2gitlab",
+    "num_of_projects": 1,
+    "children": [
+      {
+        "project_id": 2523,
+        "text": "Wir-bauen-Hamburg.de",
+        "description": "Eine Stadtplanungs- und BÃ¼rgerbeteiligungsplattform fÃ¼r alle StÃ¤dte",
+        "code_url": "https://github.com/webuildcity/polis"
+      },
+      {
+        "project_id": 3698,
+        "text": "Something in Philly",
+        "description": "Tim Wisniewski wrote an election scraper with Kimono and a html page to display live election results scraped from http://phillyelectionresults.com/.",
+        "code_url": "http://git.kclough.me/kclough/nodeelectionscraper"
+      },
+      {
+        "project_id": 3699,
+        "text": "philly_traffic",
+        "description": "Tim Wisniewski wrote an election scraper with Kimono and a html page to display live election results scraped from http://phillyelectionresults.com/.",
+        "code_url": "http://git.kclough.me/kclough/nodeelectionscraper"
+      }
+    ]
+  }
+]
