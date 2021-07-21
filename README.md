@@ -8,6 +8,12 @@ In the project directory, you can run:
 
 ### `yarn start`
 
+If you are using Mac OS X, you might have to set your `HOST` variable,
+
+```
+HOST=localhost yarn start
+```
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
